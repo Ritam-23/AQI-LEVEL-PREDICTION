@@ -1,13 +1,13 @@
 # IITK Hackathon Buzzstop
 
-## Title : Air Quality Index
+## Title : Air Quality Index 
 
 ## Team Name: AI AVENGERS
 
 ## Problem Statement :  Air Quality monitoring and Prediction
  
 ---
-###  Challenge : 
+###  Challenge :
  
 In addition, air pollution negatively affects the urban ecosystem, damaging vegetation, reducing biodiversity, and contributing to climate change. Poor air quality has significant impacts on public health, contributing to respiratory diseases, cardiovascular issues, and reduced quality of life, especially among vulnerable populations like children and the elderly.
 
@@ -152,12 +152,6 @@ Collaborating with schools and educational institutions can foster community eng
 ### **5. Policy and Regulation Support**
 
 Our project can provide policymakers with crucial data on air quality trends, aiding in the development of regulations aimed at reducing pollution and promoting public health. By integrating with systems that assess environmental impacts, our project can help evaluate the effectiveness of air quality interventions and inform future strategies.
-
-## Demo 
-
-[Youtube Video](https://youtu.be/cU2qOUErZMc)
-
-[Github repository](https://github.com/SUDIPTO1903/AIR-QUALITY-INDEX)
 
 ## Future Potential and Scalability
 
